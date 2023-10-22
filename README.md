@@ -1,5 +1,5 @@
 
-<h1 align="center" >Olá, eu sou José Mateus, <br> estudante da área de TI</h1>
+<h1 align="center" >Olá, eu sou José Mateus, <br> alguns de meus projetos</h1>
 
 <div align="center">
   <a href="https://github.com/Josmateussilva0110/Josmateussilva0110">
