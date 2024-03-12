@@ -14,3 +14,11 @@
  <img align="center" alt="Lucaspm5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
           
 </div>
+
+## Redes 
+
+<div align="center">
+  <a href="https://judge.beecrowd.com/pt/users/statistics/671939">Beecrowd</a> |
+  <a href="https://codeforces.com/profile/mateus0110">CodeForces</a> |
+  <a href="https://www.instagram.com/mateeus_siillva/">Instagram</a>
+</div>
