@@ -1,7 +1,7 @@
 
 <h1 align="center" >Olá, eu sou José Mateus, <br> alguns de meus projetos</h1>
 
-<div align="center">
+<div align="center" style="width: 100%; max-width: 900px; margin: auto;">
   <a href="https://github.com/Josmateussilva0110/Josmateussilva0110">
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josmateussilva0110&layout=compact&langs_count=8&theme=tokyonight"/>  
   <a href="https://github.com/anuraghazra/github-readme-stats">
