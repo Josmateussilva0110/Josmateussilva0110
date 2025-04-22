@@ -3,7 +3,7 @@
 
 <div align="center" style="width: 100%; max-width: 100px; margin: auto;">
   <a href="https://github.com/Josmateussilva0110/Josmateussilva0110">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josmateussilva0110&layout=compact&langs_count=8&theme=tokyonight"/>  
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josmateussilva0110&layout=compact&langs_count=6&theme=tokyonight"/>  
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Josmateussilva0110&theme=tokyonight&show_icons=true" />
   </a>
