@@ -14,7 +14,7 @@
 ## Ferramentas  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,mysql,postman,git,python,django,nodejs,javascript,html,css&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cpp,mysql,postman,git,python,django,nodejs,javascript,html,css,flutter&theme=dark" />
   </a>
 </p>       
           
