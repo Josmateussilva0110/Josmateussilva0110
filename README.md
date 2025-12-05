@@ -21,7 +21,7 @@
 ## 🛠️ Ferramentas & Tecnologias
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,nodejs,javascript,react,flutter,git,postgres,mysql,postman&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,nodejs,javascript,typescript,react,flutter,dart,git,postgres,mysql,postman,docker&theme=dark" />
   </a>
 </p>
 
