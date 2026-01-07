@@ -8,13 +8,21 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/Josmateussilva0110">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josmateussilva0110&layout=compact&langs_count=5&theme=tokyonight"/>
+  <a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Josmateussilva0110&layout=compact&theme=tokyonight"
+      height="200"
+    />
   </a>
+
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=Josmateussilva0110&show_icons=true&theme=tokyonight"/>
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api?username=Josmateussilva0110&layout=compact&theme=tokyonight"
+      height="200"
+    />
   </a>
 </div>
+
 
 ---
 
