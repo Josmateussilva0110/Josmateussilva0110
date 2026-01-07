@@ -10,7 +10,7 @@
 <div align="center">
   <a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
     <img
-      src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Josmateussilva0110&layout=compact&theme=tokyonight"
+       src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Josmateussilva0110&layout=compact&theme=tokyonight&langs_count=4"
       height="200"
     />
   </a>
